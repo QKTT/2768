@@ -1,0 +1,17 @@
+git add .
+
+
+
+
+git commit -m "destruction1"
+git commit -m "destruction2"
+git commit -m "destruction3"
+git commit -m "destruction4"
+git commit -m "destruction5"
+git commit -m "destruction6"
+git commit -m "destruction7"
+git commit -m "destruction8"
+git commit -m "destruction9"
+git commit -m "destruction10"
+
+git push
